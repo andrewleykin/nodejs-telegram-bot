@@ -1,0 +1,25 @@
+{
+  "name": "test-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "VK-Promise": "^0.2.91",
+    "fs": "0.0.1-security",
+    "jquery": "^3.3.1",
+    "jsdom": "^11.6.2",
+    "node-telegram-bot-api": "^0.30.0",
+    "node-vk-bot-api": "^1.2.0",
+    "nodemon": "^1.14.12",
+    "os": "^0.1.1",
+    "request": "^2.83.0",
+    "vk-io": "^4.0.0-alpha.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
