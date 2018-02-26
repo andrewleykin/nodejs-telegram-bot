@@ -1,1 +1,1 @@
-web: pm2 telegram.js
+web: nodemon telegram.js
