@@ -1,1 +1,1 @@
-web: node telegram.js
+web: pm2 telegram.js
